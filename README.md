@@ -1,6 +1,6 @@
 - Hi, I am Louis Porter!
 
-- I am an aspiring Data Scientist!
+- I am an aspiring Data Scientist.
 
 - My main programming interests relate to data science, in partciular machine learning models.
 
