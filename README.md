@@ -2,7 +2,7 @@
 
 - My main programming interests relate to data science, in partciular machine learning models.
 
-- I have experience using Pandas, NumPy, Scikit-learn, TensorFlow among other Python libraries.
+- I have experience using Pandas, NumPy, Scikit-learn, TensorFlow among other Python libraries and extensive experience of SQL.
 
 - I am planning on next learning web development, including HTML/CSS/Javascript, expect to see projects of this nature in the coming months!
 
