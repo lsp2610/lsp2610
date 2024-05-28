@@ -6,7 +6,7 @@
 
 - I am planning on next learning web development, including HTML/CSS/Javascript, expect to see projects of this nature in the coming months!
 
-- My hobbies include watching football and playing Fantasy Football.
+- My hobbies include watching football and playing games such as Fantasy Football, Football Manager and Poker.
 
 ------
 
