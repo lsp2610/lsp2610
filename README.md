@@ -1,5 +1,7 @@
 - Hi, I am Louis Porter!
 
+- I work in data, with experience in analysis, engineering and science.
+
 - My main programming interests relate to data science, in partciular machine learning models.
 
 - I have experience using Pandas, NumPy, Scikit-learn, TensorFlow among other Python libraries and extensive experience of SQL.
